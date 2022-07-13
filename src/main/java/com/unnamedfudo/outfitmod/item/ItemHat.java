@@ -16,4 +16,6 @@ public class ItemHat extends ArmorItem {
         this.modelIndex = modelIndex;
         this.name = name;
     }
+
+
 }
